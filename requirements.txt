@@ -1,0 +1,7 @@
+pandas
+requests
+librosa
+numpy
+matplotlib
+scikit-learn
+tqdm
